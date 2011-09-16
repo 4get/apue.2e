@@ -24,6 +24,7 @@
 #include <signal.h>		/* for SIG_ERR */
 
 #define	MAXLINE	4096			/* max line length */
+#define ARG_MAX 4096
 
 /*
  * Default file access permissions for new files.
